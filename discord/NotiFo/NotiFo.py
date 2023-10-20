@@ -11,7 +11,7 @@ from discord.ext import tasks
 
 
 bot = commands.Bot(command_prefix = 'who can find this?', intents = discord.Intents.all())
-token = 'MTA3Njg3MjUwNzQ1NTQ1MTE5Ng.GAReNL.ei-tV71jldA-6bhShHiesCsFddl_ValGUuQOTc'
+token = ''
 
 tracemalloc.start()
 
